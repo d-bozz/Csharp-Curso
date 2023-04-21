@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\LINQ\bin\Debug\net6.0\32-LINQ.exe
+C:\Damian\Csharp Curso\LINQ\bin\Debug\net6.0\32-LINQ.deps.json
+C:\Damian\Csharp Curso\LINQ\bin\Debug\net6.0\32-LINQ.runtimeconfig.json
+C:\Damian\Csharp Curso\LINQ\bin\Debug\net6.0\32-LINQ.dll
+C:\Damian\Csharp Curso\LINQ\bin\Debug\net6.0\32-LINQ.pdb
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.AssemblyInfo.cs
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.dll
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\refint\32-LINQ.dll
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.pdb
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\32-LINQ.genruntimeconfig.cache
+C:\Damian\Csharp Curso\LINQ\obj\Debug\net6.0\ref\32-LINQ.dll

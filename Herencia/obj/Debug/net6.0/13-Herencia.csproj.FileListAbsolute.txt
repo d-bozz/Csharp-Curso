@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Herencia\bin\Debug\net6.0\13-Herencia.exe
+C:\Damian\Csharp Curso\Herencia\bin\Debug\net6.0\13-Herencia.deps.json
+C:\Damian\Csharp Curso\Herencia\bin\Debug\net6.0\13-Herencia.runtimeconfig.json
+C:\Damian\Csharp Curso\Herencia\bin\Debug\net6.0\13-Herencia.dll
+C:\Damian\Csharp Curso\Herencia\bin\Debug\net6.0\13-Herencia.pdb
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.dll
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\refint\13-Herencia.dll
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.pdb
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\13-Herencia.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Herencia\obj\Debug\net6.0\ref\13-Herencia.dll

@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Sobreescritura\bin\Debug\net6.0\15-Sobreescritura.exe
+C:\Damian\Csharp Curso\Sobreescritura\bin\Debug\net6.0\15-Sobreescritura.deps.json
+C:\Damian\Csharp Curso\Sobreescritura\bin\Debug\net6.0\15-Sobreescritura.runtimeconfig.json
+C:\Damian\Csharp Curso\Sobreescritura\bin\Debug\net6.0\15-Sobreescritura.dll
+C:\Damian\Csharp Curso\Sobreescritura\bin\Debug\net6.0\15-Sobreescritura.pdb
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.dll
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\refint\15-Sobreescritura.dll
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.pdb
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\15-Sobreescritura.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Sobreescritura\obj\Debug\net6.0\ref\15-Sobreescritura.dll

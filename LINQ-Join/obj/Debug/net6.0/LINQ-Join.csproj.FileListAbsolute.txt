@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\LINQ-Join\bin\Debug\net6.0\LINQ-Join.exe
+C:\Damian\Csharp Curso\LINQ-Join\bin\Debug\net6.0\LINQ-Join.deps.json
+C:\Damian\Csharp Curso\LINQ-Join\bin\Debug\net6.0\LINQ-Join.runtimeconfig.json
+C:\Damian\Csharp Curso\LINQ-Join\bin\Debug\net6.0\LINQ-Join.dll
+C:\Damian\Csharp Curso\LINQ-Join\bin\Debug\net6.0\LINQ-Join.pdb
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.AssemblyInfo.cs
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.dll
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\refint\LINQ-Join.dll
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.pdb
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\LINQ-Join.genruntimeconfig.cache
+C:\Damian\Csharp Curso\LINQ-Join\obj\Debug\net6.0\ref\LINQ-Join.dll

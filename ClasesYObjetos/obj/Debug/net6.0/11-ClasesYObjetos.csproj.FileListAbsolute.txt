@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\ClasesYObjetos\bin\Debug\net6.0\11-ClasesYObjetos.exe
+C:\Damian\Csharp Curso\ClasesYObjetos\bin\Debug\net6.0\11-ClasesYObjetos.deps.json
+C:\Damian\Csharp Curso\ClasesYObjetos\bin\Debug\net6.0\11-ClasesYObjetos.runtimeconfig.json
+C:\Damian\Csharp Curso\ClasesYObjetos\bin\Debug\net6.0\11-ClasesYObjetos.dll
+C:\Damian\Csharp Curso\ClasesYObjetos\bin\Debug\net6.0\11-ClasesYObjetos.pdb
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.AssemblyInfo.cs
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.dll
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\refint\11-ClasesYObjetos.dll
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.pdb
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\11-ClasesYObjetos.genruntimeconfig.cache
+C:\Damian\Csharp Curso\ClasesYObjetos\obj\Debug\net6.0\ref\11-ClasesYObjetos.dll

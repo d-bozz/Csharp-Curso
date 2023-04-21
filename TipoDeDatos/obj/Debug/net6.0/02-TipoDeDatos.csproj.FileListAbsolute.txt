@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\TipoDeDatos\bin\Debug\net6.0\02-TipoDeDatos.exe
+C:\Damian\Csharp Curso\TipoDeDatos\bin\Debug\net6.0\02-TipoDeDatos.deps.json
+C:\Damian\Csharp Curso\TipoDeDatos\bin\Debug\net6.0\02-TipoDeDatos.runtimeconfig.json
+C:\Damian\Csharp Curso\TipoDeDatos\bin\Debug\net6.0\02-TipoDeDatos.dll
+C:\Damian\Csharp Curso\TipoDeDatos\bin\Debug\net6.0\02-TipoDeDatos.pdb
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.AssemblyInfo.cs
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.dll
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\refint\02-TipoDeDatos.dll
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.pdb
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\02-TipoDeDatos.genruntimeconfig.cache
+C:\Damian\Csharp Curso\TipoDeDatos\obj\Debug\net6.0\ref\02-TipoDeDatos.dll

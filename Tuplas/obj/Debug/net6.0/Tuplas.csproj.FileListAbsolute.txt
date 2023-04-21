@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Tuplas\bin\Debug\net6.0\Tuplas.exe
+C:\Damian\Csharp Curso\Tuplas\bin\Debug\net6.0\Tuplas.deps.json
+C:\Damian\Csharp Curso\Tuplas\bin\Debug\net6.0\Tuplas.runtimeconfig.json
+C:\Damian\Csharp Curso\Tuplas\bin\Debug\net6.0\Tuplas.dll
+C:\Damian\Csharp Curso\Tuplas\bin\Debug\net6.0\Tuplas.pdb
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.dll
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\refint\Tuplas.dll
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.pdb
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Tuplas\obj\Debug\net6.0\ref\Tuplas.dll

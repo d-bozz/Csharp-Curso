@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Json\bin\Debug\net6.0\19-Json.exe
+C:\Damian\Csharp Curso\Json\bin\Debug\net6.0\19-Json.deps.json
+C:\Damian\Csharp Curso\Json\bin\Debug\net6.0\19-Json.runtimeconfig.json
+C:\Damian\Csharp Curso\Json\bin\Debug\net6.0\19-Json.dll
+C:\Damian\Csharp Curso\Json\bin\Debug\net6.0\19-Json.pdb
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.dll
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\refint\19-Json.dll
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.pdb
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\19-Json.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Json\obj\Debug\net6.0\ref\19-Json.dll

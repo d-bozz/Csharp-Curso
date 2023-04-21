@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Lists\bin\Debug\net6.0\Lists.exe
+C:\Damian\Csharp Curso\Lists\bin\Debug\net6.0\Lists.deps.json
+C:\Damian\Csharp Curso\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+C:\Damian\Csharp Curso\Lists\bin\Debug\net6.0\Lists.dll
+C:\Damian\Csharp Curso\Lists\bin\Debug\net6.0\Lists.pdb
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.dll
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\refint\Lists.dll
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.pdb
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Lists\obj\Debug\net6.0\ref\Lists.dll

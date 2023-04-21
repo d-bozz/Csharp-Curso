@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Variables\bin\Debug\net6.0\01-Variables.exe
+C:\Damian\Csharp Curso\Variables\bin\Debug\net6.0\01-Variables.deps.json
+C:\Damian\Csharp Curso\Variables\bin\Debug\net6.0\01-Variables.runtimeconfig.json
+C:\Damian\Csharp Curso\Variables\bin\Debug\net6.0\01-Variables.dll
+C:\Damian\Csharp Curso\Variables\bin\Debug\net6.0\01-Variables.pdb
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.dll
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\refint\01-Variables.dll
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.pdb
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\01-Variables.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Variables\obj\Debug\net6.0\ref\01-Variables.dll

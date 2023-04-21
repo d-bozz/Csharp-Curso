@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Propiedades\bin\Debug\net6.0\12-Propiedades.exe
+C:\Damian\Csharp Curso\Propiedades\bin\Debug\net6.0\12-Propiedades.deps.json
+C:\Damian\Csharp Curso\Propiedades\bin\Debug\net6.0\12-Propiedades.runtimeconfig.json
+C:\Damian\Csharp Curso\Propiedades\bin\Debug\net6.0\12-Propiedades.dll
+C:\Damian\Csharp Curso\Propiedades\bin\Debug\net6.0\12-Propiedades.pdb
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.dll
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\refint\12-Propiedades.dll
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.pdb
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\12-Propiedades.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Propiedades\obj\Debug\net6.0\ref\12-Propiedades.dll

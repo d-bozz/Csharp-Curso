@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Funciones\bin\Debug\net6.0\04-Funciones.exe
+C:\Damian\Csharp Curso\Funciones\bin\Debug\net6.0\04-Funciones.deps.json
+C:\Damian\Csharp Curso\Funciones\bin\Debug\net6.0\04-Funciones.runtimeconfig.json
+C:\Damian\Csharp Curso\Funciones\bin\Debug\net6.0\04-Funciones.dll
+C:\Damian\Csharp Curso\Funciones\bin\Debug\net6.0\04-Funciones.pdb
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.dll
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\refint\04-Funciones.dll
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.pdb
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\04-Funciones.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Funciones\obj\Debug\net6.0\ref\04-Funciones.dll

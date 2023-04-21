@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\For\bin\Debug\net6.0\10-For.exe
+C:\Damian\Csharp Curso\For\bin\Debug\net6.0\10-For.deps.json
+C:\Damian\Csharp Curso\For\bin\Debug\net6.0\10-For.runtimeconfig.json
+C:\Damian\Csharp Curso\For\bin\Debug\net6.0\10-For.dll
+C:\Damian\Csharp Curso\For\bin\Debug\net6.0\10-For.pdb
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.AssemblyInfo.cs
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.dll
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\refint\10-For.dll
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.pdb
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\10-For.genruntimeconfig.cache
+C:\Damian\Csharp Curso\For\obj\Debug\net6.0\ref\10-For.dll

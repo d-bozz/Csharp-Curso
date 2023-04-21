@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\ForEach\bin\Debug\net6.0\ForEach.exe
+C:\Damian\Csharp Curso\ForEach\bin\Debug\net6.0\ForEach.deps.json
+C:\Damian\Csharp Curso\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+C:\Damian\Csharp Curso\ForEach\bin\Debug\net6.0\ForEach.dll
+C:\Damian\Csharp Curso\ForEach\bin\Debug\net6.0\ForEach.pdb
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.dll
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\refint\ForEach.dll
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.pdb
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+C:\Damian\Csharp Curso\ForEach\obj\Debug\net6.0\ref\ForEach.dll

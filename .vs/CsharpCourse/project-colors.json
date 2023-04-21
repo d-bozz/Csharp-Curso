@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f201d4b4-83f7-4a57-9515-a73557fc356d": {
+      "ProjectGuid": "f201d4b4-83f7-4a57-9515-a73557fc356d",
+      "DisplayName": "Tuplas",
+      "ColorIndex": 0
+    },
+    "4b4e5d08-7eac-43a8-bd6b-01151934f3bc": {
+      "ProjectGuid": "4b4e5d08-7eac-43a8-bd6b-01151934f3bc",
+      "DisplayName": "EntityFrameworkSystem",
+      "ColorIndex": 1
+    },
+    "939611d0-c78e-439c-a47f-3112d11d7271": {
+      "ProjectGuid": "939611d0-c78e-439c-a47f-3112d11d7271",
+      "DisplayName": "BD",
+      "ColorIndex": 2
+    },
+    "212cfc3b-2e52-4a46-bade-9f200eaf9c72": {
+      "ProjectGuid": "212cfc3b-2e52-4a46-bade-9f200eaf9c72",
+      "DisplayName": "Json",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "ae480d0e-7283-414b-9936-6087706c9d33": {
+      "ProjectGuid": "ae480d0e-7283-414b-9936-6087706c9d33",
+      "DisplayName": "Sobrecarga",
+      "ColorIndex": 4
+    },
+    "82aa389e-9f60-4a09-8db1-eddf3f35eacd": {
+      "ProjectGuid": "82aa389e-9f60-4a09-8db1-eddf3f35eacd",
+      "DisplayName": "FunctionalProgramming",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

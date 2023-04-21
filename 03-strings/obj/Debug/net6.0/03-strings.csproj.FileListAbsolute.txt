@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\03-strings\bin\Debug\net6.0\03-Strings.exe
+C:\Damian\Csharp Curso\03-strings\bin\Debug\net6.0\03-Strings.deps.json
+C:\Damian\Csharp Curso\03-strings\bin\Debug\net6.0\03-Strings.runtimeconfig.json
+C:\Damian\Csharp Curso\03-strings\bin\Debug\net6.0\03-Strings.dll
+C:\Damian\Csharp Curso\03-strings\bin\Debug\net6.0\03-Strings.pdb
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.AssemblyInfo.cs
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.dll
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\refint\03-Strings.dll
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.pdb
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\03-Strings.genruntimeconfig.cache
+C:\Damian\Csharp Curso\03-strings\obj\Debug\net6.0\ref\03-Strings.dll

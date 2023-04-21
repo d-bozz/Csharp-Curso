@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Generic\bin\Debug\net6.0\18-Generic.exe
+C:\Damian\Csharp Curso\Generic\bin\Debug\net6.0\18-Generic.deps.json
+C:\Damian\Csharp Curso\Generic\bin\Debug\net6.0\18-Generic.runtimeconfig.json
+C:\Damian\Csharp Curso\Generic\bin\Debug\net6.0\18-Generic.dll
+C:\Damian\Csharp Curso\Generic\bin\Debug\net6.0\18-Generic.pdb
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.dll
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\refint\18-Generic.dll
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.pdb
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\18-Generic.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Generic\obj\Debug\net6.0\ref\18-Generic.dll

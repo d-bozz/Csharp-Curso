@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Arreglos\bin\Debug\net6.0\12-Arreglos.exe
+C:\Damian\Csharp Curso\Arreglos\bin\Debug\net6.0\12-Arreglos.deps.json
+C:\Damian\Csharp Curso\Arreglos\bin\Debug\net6.0\12-Arreglos.runtimeconfig.json
+C:\Damian\Csharp Curso\Arreglos\bin\Debug\net6.0\12-Arreglos.dll
+C:\Damian\Csharp Curso\Arreglos\bin\Debug\net6.0\12-Arreglos.pdb
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.dll
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\refint\12-Arreglos.dll
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.pdb
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\12-Arreglos.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Arreglos\obj\Debug\net6.0\ref\12-Arreglos.dll

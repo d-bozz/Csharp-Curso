@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\SwitchCase\bin\Debug\net6.0\07-SwitchCase.exe
+C:\Damian\Csharp Curso\SwitchCase\bin\Debug\net6.0\07-SwitchCase.deps.json
+C:\Damian\Csharp Curso\SwitchCase\bin\Debug\net6.0\07-SwitchCase.runtimeconfig.json
+C:\Damian\Csharp Curso\SwitchCase\bin\Debug\net6.0\07-SwitchCase.dll
+C:\Damian\Csharp Curso\SwitchCase\bin\Debug\net6.0\07-SwitchCase.pdb
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.AssemblyInfo.cs
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.dll
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\refint\07-SwitchCase.dll
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.pdb
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\07-SwitchCase.genruntimeconfig.cache
+C:\Damian\Csharp Curso\SwitchCase\obj\Debug\net6.0\ref\07-SwitchCase.dll

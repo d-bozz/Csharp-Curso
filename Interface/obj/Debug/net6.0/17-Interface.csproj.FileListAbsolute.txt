@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Interface\bin\Debug\net6.0\17-Interface.exe
+C:\Damian\Csharp Curso\Interface\bin\Debug\net6.0\17-Interface.deps.json
+C:\Damian\Csharp Curso\Interface\bin\Debug\net6.0\17-Interface.runtimeconfig.json
+C:\Damian\Csharp Curso\Interface\bin\Debug\net6.0\17-Interface.dll
+C:\Damian\Csharp Curso\Interface\bin\Debug\net6.0\17-Interface.pdb
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.dll
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\refint\17-Interface.dll
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.pdb
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\17-Interface.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Interface\obj\Debug\net6.0\ref\17-Interface.dll

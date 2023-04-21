@@ -1,0 +1,15 @@
+C:\Damian\Csharp Curso\Excepciones\bin\Debug\net6.0\Excepciones.exe
+C:\Damian\Csharp Curso\Excepciones\bin\Debug\net6.0\Excepciones.deps.json
+C:\Damian\Csharp Curso\Excepciones\bin\Debug\net6.0\Excepciones.runtimeconfig.json
+C:\Damian\Csharp Curso\Excepciones\bin\Debug\net6.0\Excepciones.dll
+C:\Damian\Csharp Curso\Excepciones\bin\Debug\net6.0\Excepciones.pdb
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.csproj.AssemblyReference.cache
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfoInputs.cache
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfo.cs
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.dll
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\refint\Excepciones.dll
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.pdb
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\Excepciones.genruntimeconfig.cache
+C:\Damian\Csharp Curso\Excepciones\obj\Debug\net6.0\ref\Excepciones.dll
