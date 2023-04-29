@@ -6,15 +6,20 @@ namespace TipoDeDatos
     {
         static void Main(string[] args)
         {
-            int number = 12121;
-            double doubleNumber = 12.1212;
-            char character = 'A';
-            string name = "Héctor";
-            bool isDead = false;
-            long myLong = 15000000000L;
-            float myNum = 5.75F;
+            string myString = "Héctor";
+            bool myBool = false;
+            char myChar = 'A';
+            int myInt = 12121;
+            long myLong = 128;
+            double myDouble = 12.1212d;
+            float myFloat = 5.75f;
+            decimal myDecimal = 6.25m;
 
-            Console.WriteLine(isDead);
+            int numeroInt = new int();
+            Console.WriteLine(numeroInt); // Esto imprime 0
+
+            int? numeroNull = null;
+            Console.WriteLine(numeroNull); // Esto imprime un null
 
         }
     }
