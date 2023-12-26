@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\ClasesYObjetos\\14-ClasesYObjetos.csproj",
-      "projectName": "14-ClasesYObjetos",
-      "projectPath": "C:\\Damian\\Csharp Curso\\ClasesYObjetos\\14-ClasesYObjetos.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\ClasesYObjetos\\01-ClasesYObjetos.csproj",
+      "projectName": "01-ClasesYObjetos",
+      "projectPath": "C:\\Damian\\csharp-basics\\ClasesYObjetos\\01-ClasesYObjetos.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\ClasesYObjetos\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\ClasesYObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\Interface\\21-Interface.csproj",
-      "projectName": "21-Interface",
-      "projectPath": "C:\\Damian\\Csharp Curso\\Interface\\21-Interface.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\Interface\\09-Interface.csproj",
+      "projectName": "09-Interface",
+      "projectPath": "C:\\Damian\\csharp-basics\\Interface\\09-Interface.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\Interface\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

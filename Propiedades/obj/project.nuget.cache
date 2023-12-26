@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9h3XG6QzVzmb8cyVwR9KgyXJT+tCb2yil38rGZYA1NG6M+xlR3ncjNvJzpnKtJqIk+TOlZ8JVFDmVmn16EhEqQ==",
+  "dgSpecHash": "YcKPb1q9MOTTvamJzLdYjAFJGCg0NrmGISmIOSi8S0KpADLegAl4O/1zNpb+WHNQg9EOsEiOn77BeGG5zd4NPg==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Propiedades\\15-Propiedades.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Propiedades\\02-POO-Encapsulacion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

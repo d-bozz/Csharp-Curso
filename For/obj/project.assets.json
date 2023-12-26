@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\For\\13-For.csproj",
-      "projectName": "13-For",
-      "projectPath": "C:\\Damian\\Csharp Curso\\For\\13-For.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\For\\15-For.csproj",
+      "projectName": "15-For",
+      "projectPath": "C:\\Damian\\csharp-basics\\For\\15-For.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\For\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\For\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

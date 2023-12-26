@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\Sobreescritura\\19-Sobreescritura.csproj",
-      "projectName": "19-Sobreescritura",
-      "projectPath": "C:\\Damian\\Csharp Curso\\Sobreescritura\\19-Sobreescritura.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\Sobreescritura\\07-Sobreescritura.csproj",
+      "projectName": "07-Sobreescritura",
+      "projectPath": "C:\\Damian\\csharp-basics\\Sobreescritura\\07-Sobreescritura.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\Sobreescritura\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\Sobreescritura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

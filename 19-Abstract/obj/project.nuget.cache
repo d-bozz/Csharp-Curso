@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5hGyAIqr0ESoj1efS2OrEKHWIFUuJE/tIIUdlsype51jFs8r1N2Vd1qdhAS16vMf7kGdYUmSYgApLT8hqi7CUA==",
+  "dgSpecHash": "XBq20LMLF51wJo1Ti/CkqTiOAGZBmnb1mEhXNhKjH22qzehWqF/rMPlf4wAI4U6OTyvlU4xT5tKJCOZFFa9RDw==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\19-Abstract\\22-Abstract.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\19-Abstract\\05-POO-Abstraccion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

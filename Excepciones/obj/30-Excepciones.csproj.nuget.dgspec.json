@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\Excepciones\\30-Excepciones.csproj": {}
+    "C:\\Damian\\csharp-basics\\Excepciones\\30-Excepciones.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\Excepciones\\30-Excepciones.csproj": {
+    "C:\\Damian\\csharp-basics\\Excepciones\\30-Excepciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\Excepciones\\30-Excepciones.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\Excepciones\\30-Excepciones.csproj",
         "projectName": "30-Excepciones",
-        "projectPath": "C:\\Damian\\Csharp Curso\\Excepciones\\30-Excepciones.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\Excepciones\\30-Excepciones.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\Excepciones\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\Excepciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

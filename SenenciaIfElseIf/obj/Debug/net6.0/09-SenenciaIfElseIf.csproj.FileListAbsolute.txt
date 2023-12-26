@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\SenenciaIfElseIf\bin\Debug\net6.0\09-SenenciaIfElseIf.exe
+C:\Damian\csharp-basics\SenenciaIfElseIf\bin\Debug\net6.0\09-SenenciaIfElseIf.deps.json
+C:\Damian\csharp-basics\SenenciaIfElseIf\bin\Debug\net6.0\09-SenenciaIfElseIf.runtimeconfig.json
+C:\Damian\csharp-basics\SenenciaIfElseIf\bin\Debug\net6.0\09-SenenciaIfElseIf.dll
+C:\Damian\csharp-basics\SenenciaIfElseIf\bin\Debug\net6.0\09-SenenciaIfElseIf.pdb
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.AssemblyInfo.cs
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.dll
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\refint\09-SenenciaIfElseIf.dll
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.pdb
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\09-SenenciaIfElseIf.genruntimeconfig.cache
+C:\Damian\csharp-basics\SenenciaIfElseIf\obj\Debug\net6.0\ref\09-SenenciaIfElseIf.dll

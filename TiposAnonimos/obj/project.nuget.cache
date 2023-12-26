@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNbSaonWvy21LLzx0PBJBc4EjnZqIkhwe+8IswlZRT6a82/Dom7sxzykpZxKHBNN+Huk24GluFf+tMBWV8b2qQ==",
+  "dgSpecHash": "64cxAGVXlYmPTf4wugNSEdAD5Vp2YCK5fxlphQ8WymfGuA8KEzBOm30hDs49p7gKw37wBsY1U6e4GVyUoaWUrw==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\TiposAnonimos\\28-TiposAnonimos.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\TiposAnonimos\\14-TiposAnonimos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EjkH0jNr8Sqfde0tlpXyKXkJjIs4qF19bwAkFsxRyE7U9c1Os7uLofFtx8dk2pMd/Z26HTR4ync5DC1/98t57w==",
+  "dgSpecHash": "SQngwg4QRTYCRGGC2sBPIpfFVeWPDixjDycgZ7Ibi3AK17SyMPOT+xWe958JH3cKmVdGNiEhaKvIXyAjewHfcA==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\BD\\35-BD.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\BD\\BD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damian.boz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\damian.boz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\TiposAnonimos\bin\Debug\net6.0\28-TiposAnonimos.exe
+C:\Damian\csharp-basics\TiposAnonimos\bin\Debug\net6.0\28-TiposAnonimos.deps.json
+C:\Damian\csharp-basics\TiposAnonimos\bin\Debug\net6.0\28-TiposAnonimos.runtimeconfig.json
+C:\Damian\csharp-basics\TiposAnonimos\bin\Debug\net6.0\28-TiposAnonimos.dll
+C:\Damian\csharp-basics\TiposAnonimos\bin\Debug\net6.0\28-TiposAnonimos.pdb
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.AssemblyInfo.cs
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.dll
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\refint\28-TiposAnonimos.dll
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.pdb
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\28-TiposAnonimos.genruntimeconfig.cache
+C:\Damian\csharp-basics\TiposAnonimos\obj\Debug\net6.0\ref\28-TiposAnonimos.dll

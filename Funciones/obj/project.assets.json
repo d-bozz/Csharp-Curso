@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\Funciones\\08-Funciones.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\Funciones\\08-Funciones.csproj",
       "projectName": "08-Funciones",
-      "projectPath": "C:\\Damian\\Csharp Curso\\Funciones\\08-Funciones.csproj",
+      "projectPath": "C:\\Damian\\csharp-basics\\Funciones\\08-Funciones.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\Funciones\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\Funciones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

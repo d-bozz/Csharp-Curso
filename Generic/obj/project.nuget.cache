@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dj66gHn5/d8KC4AesOah+EAh0fXqJwB0h6TOKhKEnM76enApYBTpQmOJjPdAQsjOrrzpR6Kpn4q1lQHUPcj/WQ==",
+  "dgSpecHash": "qYhC7MQ0pclv8J9rbKpXBn17R//Lk3w04n6hvaDw8n6LACD6Xdx7TRVHUIcVz3vDohuRZ1e8misqa6AJrmAszQ==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Generic\\23-Generic.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Generic\\10-Generic.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

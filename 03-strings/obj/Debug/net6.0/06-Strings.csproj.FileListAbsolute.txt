@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\03-strings\bin\Debug\net6.0\06-Strings.exe
+C:\Damian\csharp-basics\03-strings\bin\Debug\net6.0\06-Strings.deps.json
+C:\Damian\csharp-basics\03-strings\bin\Debug\net6.0\06-Strings.runtimeconfig.json
+C:\Damian\csharp-basics\03-strings\bin\Debug\net6.0\06-Strings.dll
+C:\Damian\csharp-basics\03-strings\bin\Debug\net6.0\06-Strings.pdb
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.AssemblyInfo.cs
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.dll
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\refint\06-Strings.dll
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.pdb
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\06-Strings.genruntimeconfig.cache
+C:\Damian\csharp-basics\03-strings\obj\Debug\net6.0\ref\06-Strings.dll

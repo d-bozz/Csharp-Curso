@@ -14,9 +14,6 @@ namespace Excepciones
                 string content = File.ReadAllText(@"C:\Users\Bioxor\Documents\x\pato.txt");
                 Console.WriteLine(content);
 
-                string content2 = File.ReadAllText(@"C:\Users\Bioxor\Documents\x\pato2.txt");
-                Console.WriteLine(content2);
-
                 // Arrojo una excepcion
                 throw new Exception("Ocurrio algo raro");
             }

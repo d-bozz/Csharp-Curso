@@ -1,0 +1,5 @@
+C:\Damian\csharp-basics\Variables\obj\Debug\net6.0\03-Variables.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Variables\obj\Debug\net6.0\03-Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Variables\obj\Debug\net6.0\03-Variables.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Variables\obj\Debug\net6.0\03-Variables.AssemblyInfo.cs
+C:\Damian\csharp-basics\Variables\obj\Debug\net6.0\03-Variables.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVAVQ/m+YrTw68nyk7HOaoK9A8d0vUa9pNyi6R7FXJffDi0r0QCmz5bYh+qpGg7m1cfHR/zFrLxjIOR+I47qTQ==",
+  "dgSpecHash": "sFeXjHzHp8CmNHZ220e5OKReFQDmZFw2wnNF+hKG+RFdinPAVSSWtFgMbO+LiLqTp9oefs6He+ppljz8UFm6AQ==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Funciones\\08-Funciones.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Funciones\\08-Funciones.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

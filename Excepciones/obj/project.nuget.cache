@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qnPLinQqh7NYS3f5KqGKJRmY5/JvYjCbPBIZf5qJNfrfaZqyZ9UvfbkFcLt7k/uRpCcSqx+GL4Tu7NFHzXVEYA==",
+  "dgSpecHash": "kjp8Rh9bqiaFJBewQ1KGjF7x4OpnO4XzvZbL1DZktw5R541s25nPT7FSdNb+we24T43TKkqJk6RcvMapZ6ZynQ==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Excepciones\\30-Excepciones.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Excepciones\\19-Excepciones.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

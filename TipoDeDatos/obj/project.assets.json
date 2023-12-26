@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\TipoDeDatos\\03-TipoDeDatos.csproj",
-      "projectName": "03-TipoDeDatos",
-      "projectPath": "C:\\Damian\\Csharp Curso\\TipoDeDatos\\03-TipoDeDatos.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\TipoDeDatos\\02-TipoDeDatos.csproj",
+      "projectName": "02-TipoDeDatos",
+      "projectPath": "C:\\Damian\\csharp-basics\\TipoDeDatos\\02-TipoDeDatos.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\TipoDeDatos\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\TipoDeDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

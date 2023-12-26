@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Static\bin\Debug\net6.0\20-Static.exe
+C:\Damian\csharp-basics\Static\bin\Debug\net6.0\20-Static.deps.json
+C:\Damian\csharp-basics\Static\bin\Debug\net6.0\20-Static.runtimeconfig.json
+C:\Damian\csharp-basics\Static\bin\Debug\net6.0\20-Static.dll
+C:\Damian\csharp-basics\Static\bin\Debug\net6.0\20-Static.pdb
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.AssemblyInfo.cs
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.dll
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\refint\20-Static.dll
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.pdb
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\20-Static.genruntimeconfig.cache
+C:\Damian\csharp-basics\Static\obj\Debug\net6.0\ref\20-Static.dll

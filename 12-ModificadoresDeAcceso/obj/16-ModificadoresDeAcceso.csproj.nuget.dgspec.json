@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj": {}
+    "C:\\Damian\\csharp-basics\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj": {
+    "C:\\Damian\\csharp-basics\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj",
         "projectName": "16-ModificadoresDeAcceso",
-        "projectPath": "C:\\Damian\\Csharp Curso\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\12-ModificadoresDeAcceso\\16-ModificadoresDeAcceso.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\12-ModificadoresDeAcceso\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\12-ModificadoresDeAcceso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

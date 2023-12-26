@@ -63,5 +63,20 @@ namespace Herencia
             }
 
         }
+
+
+        // La palabra clave sealed hace que no se pueda heredar de una clase
+        sealed class Sealed 
+        {
+            private string campoSealed;
+
+            public void Imprimir(string cadena)
+            {
+                Console.WriteLine("metodo imprimir:" + cadena);
+            }
+        }
+
+        
+        //class example : Sealed { } // Esto da un error
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IAHGgvpgyU9+SjPku0BUzbxjbXVQ0oNlZ9BfykFObKTa7eHFQRFwybqwd+G4iJtYWkm4zYQgwJFZzxWhY6+Sw==",
+  "dgSpecHash": "B93i2VYsATla2PHDw2bkdIhwABWTZcME/1okiTh3w8/bviGBWG5o5ivtj/VS1dytqnTjnr5zPJwaNiTlPcg4FQ==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Lists\\25-Lists.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Lists\\12-Lists.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

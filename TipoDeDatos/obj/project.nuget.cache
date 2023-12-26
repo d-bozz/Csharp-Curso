@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rl+vRPCGdyyPdTovpS3zzSGe//Q1WGd7tCfpdcFOPdb/37niRYa8yCGQe1P/WJd7Yqjy3lNOukXKhjbvTUrpOw==",
+  "dgSpecHash": "yG9KmNcA6v3NxkC6wXjWGKYi/Nfdi39kJMEkbMn52fwAPl/LYU2Hbpq/nyGytRtB5D+dVLMpASMU+qcMQlvriw==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\TipoDeDatos\\03-TipoDeDatos.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\TipoDeDatos\\02-TipoDeDatos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

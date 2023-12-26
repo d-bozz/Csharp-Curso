@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\FunctionalProgramming\bin\Debug\net6.0\37-FunctionalProgramming.exe
+C:\Damian\csharp-basics\FunctionalProgramming\bin\Debug\net6.0\37-FunctionalProgramming.deps.json
+C:\Damian\csharp-basics\FunctionalProgramming\bin\Debug\net6.0\37-FunctionalProgramming.runtimeconfig.json
+C:\Damian\csharp-basics\FunctionalProgramming\bin\Debug\net6.0\37-FunctionalProgramming.dll
+C:\Damian\csharp-basics\FunctionalProgramming\bin\Debug\net6.0\37-FunctionalProgramming.pdb
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.AssemblyInfo.cs
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.dll
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\refint\37-FunctionalProgramming.dll
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.pdb
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\37-FunctionalProgramming.genruntimeconfig.cache
+C:\Damian\csharp-basics\FunctionalProgramming\obj\Debug\net6.0\ref\37-FunctionalProgramming.dll

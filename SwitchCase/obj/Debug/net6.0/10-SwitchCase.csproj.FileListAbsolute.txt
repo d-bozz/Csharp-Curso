@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\SwitchCase\bin\Debug\net6.0\10-SwitchCase.exe
+C:\Damian\csharp-basics\SwitchCase\bin\Debug\net6.0\10-SwitchCase.deps.json
+C:\Damian\csharp-basics\SwitchCase\bin\Debug\net6.0\10-SwitchCase.runtimeconfig.json
+C:\Damian\csharp-basics\SwitchCase\bin\Debug\net6.0\10-SwitchCase.dll
+C:\Damian\csharp-basics\SwitchCase\bin\Debug\net6.0\10-SwitchCase.pdb
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.AssemblyInfo.cs
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.dll
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\refint\10-SwitchCase.dll
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.pdb
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\10-SwitchCase.genruntimeconfig.cache
+C:\Damian\csharp-basics\SwitchCase\obj\Debug\net6.0\ref\10-SwitchCase.dll

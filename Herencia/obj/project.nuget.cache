@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QLq066JUS2e9IVHwVFGNMyrqDnzqXTqhpKHDuOP1abo4iBYrg8ZHnxmGj3uJ3ZGa3MVb6ulqbG5M1wn4VMA8hQ==",
+  "dgSpecHash": "eKJDezE+PywnmY32vAfZsmxWF4RhuUKt8hnueAHpuundO+bp2dW2NIx+gIfSKq3/B34OklIxHIN5vUefyYOJEg==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Herencia\\17-Herencia.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Herencia\\03-POO-Herencia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

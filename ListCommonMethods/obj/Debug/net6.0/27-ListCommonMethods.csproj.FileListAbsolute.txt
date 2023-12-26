@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\ListCommonMethods\bin\Debug\net6.0\27-ListCommonMethods.exe
+C:\Damian\csharp-basics\ListCommonMethods\bin\Debug\net6.0\27-ListCommonMethods.deps.json
+C:\Damian\csharp-basics\ListCommonMethods\bin\Debug\net6.0\27-ListCommonMethods.runtimeconfig.json
+C:\Damian\csharp-basics\ListCommonMethods\bin\Debug\net6.0\27-ListCommonMethods.dll
+C:\Damian\csharp-basics\ListCommonMethods\bin\Debug\net6.0\27-ListCommonMethods.pdb
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.AssemblyInfo.cs
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.dll
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\refint\27-ListCommonMethods.dll
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.pdb
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\27-ListCommonMethods.genruntimeconfig.cache
+C:\Damian\csharp-basics\ListCommonMethods\obj\Debug\net6.0\ref\27-ListCommonMethods.dll

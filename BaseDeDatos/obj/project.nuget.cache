@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l7U93vME/RMSdLaFFjiurFh7M6SJ+qylnt4DjwHPsFmXFCR1Wlr+3Dv4GMqShFN3efWmefQ9B834XDltWmaVNw==",
+  "dgSpecHash": "iSRfWJsXXBTojHTxX8gYviRk3KRtC+/ntAu+YIeX4Rf8YvPDykdMpPaihrSgD/lj8yhdb09X2lqhKggSnZTYnQ==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\BaseDeDatos\\34-BaseDeDatos.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\BaseDeDatos\\01-BaseDeDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damian.boz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\damian.boz\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

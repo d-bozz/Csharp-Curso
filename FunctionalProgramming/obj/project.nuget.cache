@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TIXGRkzS9Cv6qudAm/Mxl7pdKvjTJnqEQqKgxbyCqy8uN5BqrJcQEt1piwHXayTSyN/2p6Ufebj0FkDdeCa+lg==",
+  "dgSpecHash": "3U0GMrBdwkU0Sv/BVPXefTrNrcD2avMdoRRaJCenmqxokKW1u6Fxzd2rXk4k6eYpVv2VGzJ86pZAq28Sryfn1A==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\FunctionalProgramming\\37-FunctionalProgramming.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\FunctionalProgramming\\02-ProgramacionFuncional.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

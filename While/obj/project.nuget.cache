@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FlhVTEUaBt/CjrMnPr7WzGQ3btxZJAmWVKX1LvdV5yGv6DvfsDEONGoZJt1TD/seS298jDhOe9mf7Bb4WnvNgw==",
+  "dgSpecHash": "4nzenzqRLiGqVXHNr9xSm2zjfnE5eWFzeaRAgLMD+Wm7hAnufef0C3//28OxVGDxtxFio8nPiLUBr4i65yNkMQ==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\While\\11-While.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\While\\12-While.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

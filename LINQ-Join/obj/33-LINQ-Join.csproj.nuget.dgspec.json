@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\LINQ-Join\\33-LINQ-Join.csproj": {}
+    "C:\\Damian\\csharp-basics\\LINQ-Join\\33-LINQ-Join.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\LINQ-Join\\33-LINQ-Join.csproj": {
+    "C:\\Damian\\csharp-basics\\LINQ-Join\\33-LINQ-Join.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\LINQ-Join\\33-LINQ-Join.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\LINQ-Join\\33-LINQ-Join.csproj",
         "projectName": "33-LINQ-Join",
-        "projectPath": "C:\\Damian\\Csharp Curso\\LINQ-Join\\33-LINQ-Join.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\LINQ-Join\\33-LINQ-Join.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\LINQ-Join\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\LINQ-Join\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\For\bin\Debug\net6.0\13-For.exe
+C:\Damian\csharp-basics\For\bin\Debug\net6.0\13-For.deps.json
+C:\Damian\csharp-basics\For\bin\Debug\net6.0\13-For.runtimeconfig.json
+C:\Damian\csharp-basics\For\bin\Debug\net6.0\13-For.dll
+C:\Damian\csharp-basics\For\bin\Debug\net6.0\13-For.pdb
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.AssemblyInfo.cs
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.dll
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\refint\13-For.dll
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.pdb
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\13-For.genruntimeconfig.cache
+C:\Damian\csharp-basics\For\obj\Debug\net6.0\ref\13-For.dll

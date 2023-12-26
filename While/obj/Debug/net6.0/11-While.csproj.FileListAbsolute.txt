@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\While\bin\Debug\net6.0\11-While.exe
+C:\Damian\csharp-basics\While\bin\Debug\net6.0\11-While.deps.json
+C:\Damian\csharp-basics\While\bin\Debug\net6.0\11-While.runtimeconfig.json
+C:\Damian\csharp-basics\While\bin\Debug\net6.0\11-While.dll
+C:\Damian\csharp-basics\While\bin\Debug\net6.0\11-While.pdb
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.AssemblyInfo.cs
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.dll
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\refint\11-While.dll
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.pdb
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\11-While.genruntimeconfig.cache
+C:\Damian\csharp-basics\While\obj\Debug\net6.0\ref\11-While.dll

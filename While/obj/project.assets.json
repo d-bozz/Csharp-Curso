@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\While\\11-While.csproj",
-      "projectName": "11-While",
-      "projectPath": "C:\\Damian\\Csharp Curso\\While\\11-While.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\While\\12-While.csproj",
+      "projectName": "12-While",
+      "projectPath": "C:\\Damian\\csharp-basics\\While\\12-While.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\While\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\While\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

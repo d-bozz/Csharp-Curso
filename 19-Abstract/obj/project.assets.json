@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\19-Abstract\\22-Abstract.csproj",
-      "projectName": "22-Abstract",
-      "projectPath": "C:\\Damian\\Csharp Curso\\19-Abstract\\22-Abstract.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\19-Abstract\\05-POO-Abstraccion.csproj",
+      "projectName": "05-POO-Abstraccion",
+      "projectPath": "C:\\Damian\\csharp-basics\\19-Abstract\\05-POO-Abstraccion.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\19-Abstract\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\19-Abstract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

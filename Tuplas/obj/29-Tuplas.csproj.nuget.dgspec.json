@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\Tuplas\\29-Tuplas.csproj": {}
+    "C:\\Damian\\csharp-basics\\Tuplas\\29-Tuplas.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\Tuplas\\29-Tuplas.csproj": {
+    "C:\\Damian\\csharp-basics\\Tuplas\\29-Tuplas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\Tuplas\\29-Tuplas.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\Tuplas\\29-Tuplas.csproj",
         "projectName": "29-Tuplas",
-        "projectPath": "C:\\Damian\\Csharp Curso\\Tuplas\\29-Tuplas.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\Tuplas\\29-Tuplas.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\Tuplas\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\Tuplas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcAB1/Ytymnp3F73q49PWLC2yfWRV929gp3hCYsCom52XhEpqsYREqxPltxa6wrdSc5nvrvkzdjfY+dM8mYdhQ==",
+  "dgSpecHash": "I/Vz7tWTemIBbT4DGoKa7VBtSPziFIwB7xc9mpgzgqPVQKhZ12cGbHbl8LCspcLcgVUeOCFwCagsnc4k/rpRGg==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\LINQ\\32-LINQ.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\LINQ\\17-LINQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

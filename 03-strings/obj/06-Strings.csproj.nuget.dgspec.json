@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\03-strings\\06-Strings.csproj": {}
+    "C:\\Damian\\csharp-basics\\03-strings\\06-Strings.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\03-strings\\06-Strings.csproj": {
+    "C:\\Damian\\csharp-basics\\03-strings\\06-Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\03-strings\\06-Strings.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\03-strings\\06-Strings.csproj",
         "projectName": "06-Strings",
-        "projectPath": "C:\\Damian\\Csharp Curso\\03-strings\\06-Strings.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\03-strings\\06-Strings.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\03-strings\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\03-strings\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

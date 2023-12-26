@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRTKmByyTCYctSoE8uNd0UeTmx7KOSGcV+ZfxgWsbV3/74XjwwrQu7lXLTAyiC+bmulCP3xJw0b3ldUDvmbzMg==",
+  "dgSpecHash": "f3QNNNWU/uhdJw8bpPDpZPS36USvn0U2/M0E+j4T0mZYXFOTYch8bYUh+PcdmUBQX7n6+bv0Q2/oLUItuIZU4A==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\TipoDeCasteo\\05-TipoDeCasteo.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\TipoDeCasteo\\05-TipoDeCasteo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

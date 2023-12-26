@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Sobreescritura\bin\Debug\net6.0\19-Sobreescritura.exe
+C:\Damian\csharp-basics\Sobreescritura\bin\Debug\net6.0\19-Sobreescritura.deps.json
+C:\Damian\csharp-basics\Sobreescritura\bin\Debug\net6.0\19-Sobreescritura.runtimeconfig.json
+C:\Damian\csharp-basics\Sobreescritura\bin\Debug\net6.0\19-Sobreescritura.dll
+C:\Damian\csharp-basics\Sobreescritura\bin\Debug\net6.0\19-Sobreescritura.pdb
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.AssemblyInfo.cs
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.dll
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\refint\19-Sobreescritura.dll
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.pdb
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\19-Sobreescritura.genruntimeconfig.cache
+C:\Damian\csharp-basics\Sobreescritura\obj\Debug\net6.0\ref\19-Sobreescritura.dll

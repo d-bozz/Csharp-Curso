@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\ForEach\bin\Debug\net6.0\26-ForEach.exe
+C:\Damian\csharp-basics\ForEach\bin\Debug\net6.0\26-ForEach.deps.json
+C:\Damian\csharp-basics\ForEach\bin\Debug\net6.0\26-ForEach.runtimeconfig.json
+C:\Damian\csharp-basics\ForEach\bin\Debug\net6.0\26-ForEach.dll
+C:\Damian\csharp-basics\ForEach\bin\Debug\net6.0\26-ForEach.pdb
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.AssemblyInfo.cs
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.dll
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\refint\26-ForEach.dll
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.pdb
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\26-ForEach.genruntimeconfig.cache
+C:\Damian\csharp-basics\ForEach\obj\Debug\net6.0\ref\26-ForEach.dll

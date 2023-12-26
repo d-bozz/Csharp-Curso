@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\TipoDeCasteo\bin\Debug\net6.0\05-TipoDeCasteo.exe
+C:\Damian\csharp-basics\TipoDeCasteo\bin\Debug\net6.0\05-TipoDeCasteo.deps.json
+C:\Damian\csharp-basics\TipoDeCasteo\bin\Debug\net6.0\05-TipoDeCasteo.runtimeconfig.json
+C:\Damian\csharp-basics\TipoDeCasteo\bin\Debug\net6.0\05-TipoDeCasteo.dll
+C:\Damian\csharp-basics\TipoDeCasteo\bin\Debug\net6.0\05-TipoDeCasteo.pdb
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.AssemblyInfo.cs
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.dll
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\refint\05-TipoDeCasteo.dll
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.pdb
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\05-TipoDeCasteo.genruntimeconfig.cache
+C:\Damian\csharp-basics\TipoDeCasteo\obj\Debug\net6.0\ref\05-TipoDeCasteo.dll

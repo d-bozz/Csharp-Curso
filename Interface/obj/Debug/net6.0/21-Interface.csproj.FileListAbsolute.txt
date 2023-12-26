@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Interface\bin\Debug\net6.0\21-Interface.exe
+C:\Damian\csharp-basics\Interface\bin\Debug\net6.0\21-Interface.deps.json
+C:\Damian\csharp-basics\Interface\bin\Debug\net6.0\21-Interface.runtimeconfig.json
+C:\Damian\csharp-basics\Interface\bin\Debug\net6.0\21-Interface.dll
+C:\Damian\csharp-basics\Interface\bin\Debug\net6.0\21-Interface.pdb
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.AssemblyInfo.cs
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.dll
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\refint\21-Interface.dll
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.pdb
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\21-Interface.genruntimeconfig.cache
+C:\Damian\csharp-basics\Interface\obj\Debug\net6.0\ref\21-Interface.dll

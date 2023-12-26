@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\08-FuncionesRecursivas\bin\Debug\net7.0\08-FuncionesRecursivas.exe
+C:\Damian\csharp-basics\08-FuncionesRecursivas\bin\Debug\net7.0\08-FuncionesRecursivas.deps.json
+C:\Damian\csharp-basics\08-FuncionesRecursivas\bin\Debug\net7.0\08-FuncionesRecursivas.runtimeconfig.json
+C:\Damian\csharp-basics\08-FuncionesRecursivas\bin\Debug\net7.0\08-FuncionesRecursivas.dll
+C:\Damian\csharp-basics\08-FuncionesRecursivas\bin\Debug\net7.0\08-FuncionesRecursivas.pdb
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.AssemblyInfo.cs
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.dll
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\refint\08-FuncionesRecursivas.dll
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.pdb
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\08-FuncionesRecursivas.genruntimeconfig.cache
+C:\Damian\csharp-basics\08-FuncionesRecursivas\obj\Debug\net7.0\ref\08-FuncionesRecursivas.dll

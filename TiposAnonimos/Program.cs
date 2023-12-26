@@ -29,7 +29,13 @@ namespace TiposAnonimos
             {
                 Console.WriteLine($"cerveza {b.Name} {b.Brand}");
             }
+        }
 
+        // Los tipos anónimos no tienen tipo como tal, por lo que para enviarlo a un método diferente,
+        // debemos utilizar en ese método el tipo dynamic
+        public void test(dynamic equipo)
+        {
+            var t = equipo.Nombre;
         }
     }
 }

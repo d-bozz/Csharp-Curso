@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\Static\\20-Static.csproj",
-      "projectName": "20-Static",
-      "projectPath": "C:\\Damian\\Csharp Curso\\Static\\20-Static.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\Static\\08-Static.csproj",
+      "projectName": "08-Static",
+      "projectPath": "C:\\Damian\\csharp-basics\\Static\\08-Static.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\Static\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\Static\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

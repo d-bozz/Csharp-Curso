@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\SenenciaIfElseIf\\09-SenenciaIfElseIf.csproj",
-      "projectName": "09-SenenciaIfElseIf",
-      "projectPath": "C:\\Damian\\Csharp Curso\\SenenciaIfElseIf\\09-SenenciaIfElseIf.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\SenenciaIfElseIf\\10-SenenciaIfElseIf.csproj",
+      "projectName": "10-SenenciaIfElseIf",
+      "projectPath": "C:\\Damian\\csharp-basics\\SenenciaIfElseIf\\10-SenenciaIfElseIf.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\SenenciaIfElseIf\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\SenenciaIfElseIf\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

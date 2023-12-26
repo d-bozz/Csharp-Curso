@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\Sobrecarga\\18-Sobrecarga.csproj": {}
+    "C:\\Damian\\csharp-basics\\Sobrecarga\\18-Sobrecarga.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\Sobrecarga\\18-Sobrecarga.csproj": {
+    "C:\\Damian\\csharp-basics\\Sobrecarga\\18-Sobrecarga.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\Sobrecarga\\18-Sobrecarga.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\Sobrecarga\\18-Sobrecarga.csproj",
         "projectName": "18-Sobrecarga",
-        "projectPath": "C:\\Damian\\Csharp Curso\\Sobrecarga\\18-Sobrecarga.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\Sobrecarga\\18-Sobrecarga.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\Sobrecarga\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\Sobrecarga\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

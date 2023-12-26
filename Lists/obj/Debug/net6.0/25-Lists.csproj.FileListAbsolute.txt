@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Lists\bin\Debug\net6.0\25-Lists.exe
+C:\Damian\csharp-basics\Lists\bin\Debug\net6.0\25-Lists.deps.json
+C:\Damian\csharp-basics\Lists\bin\Debug\net6.0\25-Lists.runtimeconfig.json
+C:\Damian\csharp-basics\Lists\bin\Debug\net6.0\25-Lists.dll
+C:\Damian\csharp-basics\Lists\bin\Debug\net6.0\25-Lists.pdb
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.AssemblyInfo.cs
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.dll
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\refint\25-Lists.dll
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.pdb
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\25-Lists.genruntimeconfig.cache
+C:\Damian\csharp-basics\Lists\obj\Debug\net6.0\ref\25-Lists.dll

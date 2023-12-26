@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\BD\\BD.csproj": {}
+    "C:\\Damian\\csharp-basics\\BD\\BD.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\BD\\BD.csproj": {
+    "C:\\Damian\\csharp-basics\\BD\\BD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\BD\\BD.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\BD\\BD.csproj",
         "projectName": "BD",
-        "projectPath": "C:\\Damian\\Csharp Curso\\BD\\BD.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\BD\\BD.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\BD\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\BD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

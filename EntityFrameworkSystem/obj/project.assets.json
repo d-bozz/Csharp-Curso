@@ -1047,7 +1047,7 @@
           }
         }
       },
-      "35-BD/1.0.0": {
+      "BD/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1055,10 +1055,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
         },
         "compile": {
-          "bin/placeholder/35-BD.dll": {}
+          "bin/placeholder/BD.dll": {}
         },
         "runtime": {
-          "bin/placeholder/35-BD.dll": {}
+          "bin/placeholder/BD.dll": {}
         }
       }
     }
@@ -3222,15 +3222,15 @@
         "version.txt"
       ]
     },
-    "35-BD/1.0.0": {
+    "BD/1.0.0": {
       "type": "project",
-      "path": "../BD/35-BD.csproj",
-      "msbuildProject": "../BD/35-BD.csproj"
+      "path": "../BD/BD.csproj",
+      "msbuildProject": "../BD/BD.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "35-BD >= 1.0.0"
+      "BD >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3240,11 +3240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\EntityFrameworkSystem\\36-EntityFrameworkSystem.csproj",
-      "projectName": "36-EntityFrameworkSystem",
-      "projectPath": "C:\\Damian\\Csharp Curso\\EntityFrameworkSystem\\36-EntityFrameworkSystem.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
+      "projectName": "EntityFrameworkSystem",
+      "projectPath": "C:\\Damian\\csharp-basics\\EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\EntityFrameworkSystem\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\EntityFrameworkSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3265,8 +3265,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Damian\\Csharp Curso\\BD\\35-BD.csproj": {
-              "projectPath": "C:\\Damian\\Csharp Curso\\BD\\35-BD.csproj"
+            "C:\\Damian\\csharp-basics\\BD\\BD.csproj": {
+              "projectPath": "C:\\Damian\\csharp-basics\\BD\\BD.csproj"
             }
           }
         }

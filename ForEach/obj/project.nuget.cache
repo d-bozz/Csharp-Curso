@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WA2ZznA5QEBUH6x695EZPzyWargkHZD+UfemojZ6zPmGRi6Om7lF6d+F8BtaQRvO6J0pVQt5Oa4rnAMCPvt2bQ==",
+  "dgSpecHash": "E+6a0VuibkpuHcuWbugSy9nEgJK7oBatMONZbZzu+uKXFp5gV7djfgmgB/slAtuII3Q6iLqBNB3bqc6MVpow1g==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\ForEach\\26-ForEach.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\ForEach\\16-ForEach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

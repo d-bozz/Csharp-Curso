@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\ListCommonMethods\\27-ListCommonMethods.csproj": {}
+    "C:\\Damian\\csharp-basics\\ListCommonMethods\\27-ListCommonMethods.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\ListCommonMethods\\27-ListCommonMethods.csproj": {
+    "C:\\Damian\\csharp-basics\\ListCommonMethods\\27-ListCommonMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\ListCommonMethods\\27-ListCommonMethods.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\ListCommonMethods\\27-ListCommonMethods.csproj",
         "projectName": "27-ListCommonMethods",
-        "projectPath": "C:\\Damian\\Csharp Curso\\ListCommonMethods\\27-ListCommonMethods.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\ListCommonMethods\\27-ListCommonMethods.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\ListCommonMethods\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\ListCommonMethods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

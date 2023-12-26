@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\SwitchCase\\10-SwitchCase.csproj",
-      "projectName": "10-SwitchCase",
-      "projectPath": "C:\\Damian\\Csharp Curso\\SwitchCase\\10-SwitchCase.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\SwitchCase\\11-SwitchCase.csproj",
+      "projectName": "11-SwitchCase",
+      "projectPath": "C:\\Damian\\csharp-basics\\SwitchCase\\11-SwitchCase.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\SwitchCase\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\SwitchCase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\01-Comentarios\bin\Debug\net6.0\01-Comentarios.exe
+C:\Damian\csharp-basics\01-Comentarios\bin\Debug\net6.0\01-Comentarios.deps.json
+C:\Damian\csharp-basics\01-Comentarios\bin\Debug\net6.0\01-Comentarios.runtimeconfig.json
+C:\Damian\csharp-basics\01-Comentarios\bin\Debug\net6.0\01-Comentarios.dll
+C:\Damian\csharp-basics\01-Comentarios\bin\Debug\net6.0\01-Comentarios.pdb
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.AssemblyInfo.cs
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.dll
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\refint\01-Comentarios.dll
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.pdb
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\01-Comentarios.genruntimeconfig.cache
+C:\Damian\csharp-basics\01-Comentarios\obj\Debug\net6.0\ref\01-Comentarios.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\04-EntradaDeDatos\\07-EntradaDeDatos.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\04-EntradaDeDatos\\07-EntradaDeDatos.csproj",
       "projectName": "07-EntradaDeDatos",
-      "projectPath": "C:\\Damian\\Csharp Curso\\04-EntradaDeDatos\\07-EntradaDeDatos.csproj",
+      "projectPath": "C:\\Damian\\csharp-basics\\04-EntradaDeDatos\\07-EntradaDeDatos.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\04-EntradaDeDatos\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\04-EntradaDeDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

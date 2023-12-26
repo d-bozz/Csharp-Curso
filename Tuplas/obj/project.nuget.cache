@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3mPaLK0v6qSgBS3Dlg795gxvkCJ8h1v3KrzlyJCbnxyZ2PtbEjV6I51Gm3uz+xblhiQ710GhROXR199KBW0ZwQ==",
+  "dgSpecHash": "LAMdvmPyxvr7TkNprQVJCLLVDNlAxedizud1yNsEdruODlriA3xOGBQEA8ws55875uD14ZcW5F3b845QVbil/A==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Tuplas\\29-Tuplas.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Tuplas\\15-Tuplas.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

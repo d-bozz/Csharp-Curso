@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\ClasesYObjetos\bin\Debug\net6.0\14-ClasesYObjetos.exe
+C:\Damian\csharp-basics\ClasesYObjetos\bin\Debug\net6.0\14-ClasesYObjetos.deps.json
+C:\Damian\csharp-basics\ClasesYObjetos\bin\Debug\net6.0\14-ClasesYObjetos.runtimeconfig.json
+C:\Damian\csharp-basics\ClasesYObjetos\bin\Debug\net6.0\14-ClasesYObjetos.dll
+C:\Damian\csharp-basics\ClasesYObjetos\bin\Debug\net6.0\14-ClasesYObjetos.pdb
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.AssemblyInfo.cs
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.dll
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\refint\14-ClasesYObjetos.dll
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.pdb
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\14-ClasesYObjetos.genruntimeconfig.cache
+C:\Damian\csharp-basics\ClasesYObjetos\obj\Debug\net6.0\ref\14-ClasesYObjetos.dll

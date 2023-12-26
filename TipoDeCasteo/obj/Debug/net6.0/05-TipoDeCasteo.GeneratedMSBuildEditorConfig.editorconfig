@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 05-TipoDeCasteo
-build_property.ProjectDir = C:\Damian\Csharp Curso\TipoDeCasteo\
+build_property.ProjectDir = C:\Damian\csharp-basics\TipoDeCasteo\

@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\bin\Debug\net6.0\16-ModificadoresDeAcceso.exe
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\bin\Debug\net6.0\16-ModificadoresDeAcceso.deps.json
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\bin\Debug\net6.0\16-ModificadoresDeAcceso.runtimeconfig.json
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\bin\Debug\net6.0\16-ModificadoresDeAcceso.dll
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\bin\Debug\net6.0\16-ModificadoresDeAcceso.pdb
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.AssemblyInfo.cs
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.dll
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\refint\16-ModificadoresDeAcceso.dll
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.pdb
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\16-ModificadoresDeAcceso.genruntimeconfig.cache
+C:\Damian\csharp-basics\12-ModificadoresDeAcceso\obj\Debug\net6.0\ref\16-ModificadoresDeAcceso.dll

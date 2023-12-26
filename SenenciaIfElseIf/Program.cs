@@ -8,14 +8,11 @@ namespace SenenciaIfElseIf
         {
             bool areYouHungry = true;
 
+            // Cuando solo tiene una linea no es necesario usar corchetes
             if (areYouHungry && IsOpenRestaurant("Lonches juan",11))
-            {
                 Console.WriteLine("Come");
-            }
             else
-            {
                 Console.WriteLine("No comes");
-            }
 
             // Lo mismo que lo anterior pero usando operadores ternarios
             string result = (areYouHungry && IsOpenRestaurant("Lonches juan", 11)) ? "Come" : "No comes";

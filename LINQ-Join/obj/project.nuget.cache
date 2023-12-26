@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "phwwY4Cy412iSs7C1Yq0e0uQPoz0DEBdTO+r2XrI57LT7BIG62MjHUEvJhaS1b5B+TyGs7HnanRdGwm0wEoHJA==",
+  "dgSpecHash": "T3eL1Q29528Z7kmwgWEsfTyKZEaoF/Vi6tgPejq+KKTyUjaHXh3N35KjgFkq6Wy+x5uK4qsAl1Vjlaa9ayiwPQ==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\LINQ-Join\\33-LINQ-Join.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\LINQ-Join\\18-LINQ-Join.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

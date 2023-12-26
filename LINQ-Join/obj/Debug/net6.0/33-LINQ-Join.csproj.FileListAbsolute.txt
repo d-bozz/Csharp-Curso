@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\LINQ-Join\bin\Debug\net6.0\33-LINQ-Join.exe
+C:\Damian\csharp-basics\LINQ-Join\bin\Debug\net6.0\33-LINQ-Join.deps.json
+C:\Damian\csharp-basics\LINQ-Join\bin\Debug\net6.0\33-LINQ-Join.runtimeconfig.json
+C:\Damian\csharp-basics\LINQ-Join\bin\Debug\net6.0\33-LINQ-Join.dll
+C:\Damian\csharp-basics\LINQ-Join\bin\Debug\net6.0\33-LINQ-Join.pdb
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.AssemblyInfo.cs
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.dll
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\refint\33-LINQ-Join.dll
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.pdb
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\33-LINQ-Join.genruntimeconfig.cache
+C:\Damian\csharp-basics\LINQ-Join\obj\Debug\net6.0\ref\33-LINQ-Join.dll

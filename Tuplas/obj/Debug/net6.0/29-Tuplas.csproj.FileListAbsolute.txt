@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Tuplas\bin\Debug\net6.0\29-Tuplas.exe
+C:\Damian\csharp-basics\Tuplas\bin\Debug\net6.0\29-Tuplas.deps.json
+C:\Damian\csharp-basics\Tuplas\bin\Debug\net6.0\29-Tuplas.runtimeconfig.json
+C:\Damian\csharp-basics\Tuplas\bin\Debug\net6.0\29-Tuplas.dll
+C:\Damian\csharp-basics\Tuplas\bin\Debug\net6.0\29-Tuplas.pdb
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.AssemblyInfo.cs
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.dll
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\refint\29-Tuplas.dll
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.pdb
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\29-Tuplas.genruntimeconfig.cache
+C:\Damian\csharp-basics\Tuplas\obj\Debug\net6.0\ref\29-Tuplas.dll

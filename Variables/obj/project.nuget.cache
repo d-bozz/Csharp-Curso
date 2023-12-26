@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qq6uL9uIxiDjg1ldYLy+G2+GvgwU6esrOWXZWFN/seXQCWVALnyMOyw9NcVsXsCZdAgUWErWr6hiZ2Gn52EivQ==",
+  "dgSpecHash": "OOAdUMl6rO7C1oUAUmKLbgWJo2a+jEb38f2UsOOQUiF5iL7UEeLLLVGibrZ7R1gf/KkyBA0FxSL/QXsXlaV04A==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Variables\\02-Variables.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Variables\\03-Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

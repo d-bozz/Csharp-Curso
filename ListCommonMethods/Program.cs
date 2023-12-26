@@ -20,7 +20,7 @@ namespace ListCommonMethods
 
             Show(numbers);
 
-            // Contains verifica si el elemento existe en la lista
+            // Vverificar si el elemento existe en la lista
             Console.WriteLine(numbers.Contains(19) ? "existe" : "no existe");
 
             // IndexOf me devuelve la posicion del elemento

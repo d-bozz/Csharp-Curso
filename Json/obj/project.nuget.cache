@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dd1V4X6QU8JPZmksqeuCYHrT6uuJaGKkYJJqVkCtAOBgOuvkjzMRYVZZOzp8nyRFvALloBI9XPp2wBbIy3oC6w==",
+  "dgSpecHash": "FChGr9gy1UfpDo1mqtaSwJiEpVFKEzyqcImdziH8GlgDcYbMYW2L/ptYLYagGUWmSLKZypvtsyxxn9hecRDuWw==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\Json\\24-Json.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\Json\\11-JSON.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

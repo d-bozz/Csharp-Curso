@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _04_DateTime
-build_property.ProjectDir = C:\Damian\Csharp Curso\04-DateTime\
+build_property.ProjectDir = C:\Damian\csharp-basics\04-DateTime\

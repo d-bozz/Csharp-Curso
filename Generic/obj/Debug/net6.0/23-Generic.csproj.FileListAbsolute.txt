@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Generic\bin\Debug\net6.0\23-Generic.exe
+C:\Damian\csharp-basics\Generic\bin\Debug\net6.0\23-Generic.deps.json
+C:\Damian\csharp-basics\Generic\bin\Debug\net6.0\23-Generic.runtimeconfig.json
+C:\Damian\csharp-basics\Generic\bin\Debug\net6.0\23-Generic.dll
+C:\Damian\csharp-basics\Generic\bin\Debug\net6.0\23-Generic.pdb
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.AssemblyInfo.cs
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.dll
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\refint\23-Generic.dll
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.pdb
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\23-Generic.genruntimeconfig.cache
+C:\Damian\csharp-basics\Generic\obj\Debug\net6.0\ref\23-Generic.dll

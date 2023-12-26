@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Sobrecarga\bin\Debug\net6.0\18-Sobrecarga.exe
+C:\Damian\csharp-basics\Sobrecarga\bin\Debug\net6.0\18-Sobrecarga.deps.json
+C:\Damian\csharp-basics\Sobrecarga\bin\Debug\net6.0\18-Sobrecarga.runtimeconfig.json
+C:\Damian\csharp-basics\Sobrecarga\bin\Debug\net6.0\18-Sobrecarga.dll
+C:\Damian\csharp-basics\Sobrecarga\bin\Debug\net6.0\18-Sobrecarga.pdb
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.AssemblyInfo.cs
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.dll
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\refint\18-Sobrecarga.dll
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.pdb
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\18-Sobrecarga.genruntimeconfig.cache
+C:\Damian\csharp-basics\Sobrecarga\obj\Debug\net6.0\ref\18-Sobrecarga.dll

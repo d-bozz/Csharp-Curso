@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\TipoDeCasteo\\05-TipoDeCasteo.csproj": {}
+    "C:\\Damian\\csharp-basics\\TipoDeCasteo\\05-TipoDeCasteo.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\TipoDeCasteo\\05-TipoDeCasteo.csproj": {
+    "C:\\Damian\\csharp-basics\\TipoDeCasteo\\05-TipoDeCasteo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\TipoDeCasteo\\05-TipoDeCasteo.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\TipoDeCasteo\\05-TipoDeCasteo.csproj",
         "projectName": "05-TipoDeCasteo",
-        "projectPath": "C:\\Damian\\Csharp Curso\\TipoDeCasteo\\05-TipoDeCasteo.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\TipoDeCasteo\\05-TipoDeCasteo.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\TipoDeCasteo\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\TipoDeCasteo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

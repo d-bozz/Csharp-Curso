@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n969rw2JCVEjS4FUWlRZgm3azniZEHf6dBF0KqeJ5f4jZRw6hzRWlXf5E9zQhQfiPEhmxINI7/F4E7TPV8XEsQ==",
+  "dgSpecHash": "lw15ZVDpqoMU06XJCqdVQOuJw4W/8CRM/vIgjRtf6GNctsMEtQ9CiAaxkAcP2UCIlGOfoj9nmw6Q/EWF32mpzw==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\EntityFrameworkSystem\\36-EntityFrameworkSystem.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\EntityFrameworkSystem\\EntityFrameworkSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\damian.boz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\damian.boz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

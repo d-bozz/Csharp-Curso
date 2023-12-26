@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\Herencia\\17-Herencia.csproj",
-      "projectName": "17-Herencia",
-      "projectPath": "C:\\Damian\\Csharp Curso\\Herencia\\17-Herencia.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\Herencia\\03-POO-Herencia.csproj",
+      "projectName": "03-POO-Herencia",
+      "projectPath": "C:\\Damian\\csharp-basics\\Herencia\\03-POO-Herencia.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\Herencia\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\Herencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

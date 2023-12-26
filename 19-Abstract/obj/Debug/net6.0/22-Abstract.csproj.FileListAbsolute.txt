@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\19-Abstract\bin\Debug\net6.0\22-Abstract.exe
+C:\Damian\csharp-basics\19-Abstract\bin\Debug\net6.0\22-Abstract.deps.json
+C:\Damian\csharp-basics\19-Abstract\bin\Debug\net6.0\22-Abstract.runtimeconfig.json
+C:\Damian\csharp-basics\19-Abstract\bin\Debug\net6.0\22-Abstract.dll
+C:\Damian\csharp-basics\19-Abstract\bin\Debug\net6.0\22-Abstract.pdb
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.AssemblyInfo.cs
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.dll
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\refint\22-Abstract.dll
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.pdb
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\22-Abstract.genruntimeconfig.cache
+C:\Damian\csharp-basics\19-Abstract\obj\Debug\net6.0\ref\22-Abstract.dll

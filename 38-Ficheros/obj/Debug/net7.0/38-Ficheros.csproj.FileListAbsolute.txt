@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\38-Ficheros\bin\Debug\net7.0\38-Ficheros.exe
+C:\Damian\csharp-basics\38-Ficheros\bin\Debug\net7.0\38-Ficheros.deps.json
+C:\Damian\csharp-basics\38-Ficheros\bin\Debug\net7.0\38-Ficheros.runtimeconfig.json
+C:\Damian\csharp-basics\38-Ficheros\bin\Debug\net7.0\38-Ficheros.dll
+C:\Damian\csharp-basics\38-Ficheros\bin\Debug\net7.0\38-Ficheros.pdb
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.AssemblyInfo.cs
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.dll
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\refint\38-Ficheros.dll
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.pdb
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\38-Ficheros.genruntimeconfig.cache
+C:\Damian\csharp-basics\38-Ficheros\obj\Debug\net7.0\ref\38-Ficheros.dll

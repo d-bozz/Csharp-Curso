@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v/ctB2Mry0Z/Vo3Z/mHkuafHWr820qBLg8mp3v89323k4QtfgwedV7f9j2qemaPODyQxcukAjZOZCYGDxIBweA==",
+  "dgSpecHash": "UZPZjxFafJM0ZaMWIYxiTHOQGnl90J2yKpqC18+PdNgDCjSCf+Z1hIlrbENMZBIyhLmroqIwGm9MLu+XnJ9nJA==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\04-EntradaDeDatos\\07-EntradaDeDatos.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\04-EntradaDeDatos\\07-EntradaDeDatos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

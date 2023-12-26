@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Herencia\bin\Debug\net6.0\17-Herencia.exe
+C:\Damian\csharp-basics\Herencia\bin\Debug\net6.0\17-Herencia.deps.json
+C:\Damian\csharp-basics\Herencia\bin\Debug\net6.0\17-Herencia.runtimeconfig.json
+C:\Damian\csharp-basics\Herencia\bin\Debug\net6.0\17-Herencia.dll
+C:\Damian\csharp-basics\Herencia\bin\Debug\net6.0\17-Herencia.pdb
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.AssemblyInfo.cs
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.dll
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\refint\17-Herencia.dll
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.pdb
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\17-Herencia.genruntimeconfig.cache
+C:\Damian\csharp-basics\Herencia\obj\Debug\net6.0\ref\17-Herencia.dll

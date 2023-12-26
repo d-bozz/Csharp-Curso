@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\bin\Debug\net6.0\31-ExcepcionesPersonalizadas.exe
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\bin\Debug\net6.0\31-ExcepcionesPersonalizadas.deps.json
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\bin\Debug\net6.0\31-ExcepcionesPersonalizadas.runtimeconfig.json
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\bin\Debug\net6.0\31-ExcepcionesPersonalizadas.dll
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\bin\Debug\net6.0\31-ExcepcionesPersonalizadas.pdb
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.AssemblyInfo.cs
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.dll
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\refint\31-ExcepcionesPersonalizadas.dll
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.pdb
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\31-ExcepcionesPersonalizadas.genruntimeconfig.cache
+C:\Damian\csharp-basics\ExcepcionesPersonalizadas\obj\Debug\net6.0\ref\31-ExcepcionesPersonalizadas.dll

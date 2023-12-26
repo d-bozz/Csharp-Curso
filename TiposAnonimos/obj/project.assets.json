@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Damian\\Csharp Curso\\TiposAnonimos\\28-TiposAnonimos.csproj",
-      "projectName": "28-TiposAnonimos",
-      "projectPath": "C:\\Damian\\Csharp Curso\\TiposAnonimos\\28-TiposAnonimos.csproj",
+      "projectUniqueName": "C:\\Damian\\csharp-basics\\TiposAnonimos\\14-TiposAnonimos.csproj",
+      "projectName": "14-TiposAnonimos",
+      "projectPath": "C:\\Damian\\csharp-basics\\TiposAnonimos\\14-TiposAnonimos.csproj",
       "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-      "outputPath": "C:\\Damian\\Csharp Curso\\TiposAnonimos\\obj\\",
+      "outputPath": "C:\\Damian\\csharp-basics\\TiposAnonimos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

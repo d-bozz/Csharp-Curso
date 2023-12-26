@@ -1,0 +1,14 @@
+C:\Damian\csharp-basics\BD\bin\Debug\net6.0\35-BD.deps.json
+C:\Damian\csharp-basics\BD\bin\Debug\net6.0\35-BD.runtimeconfig.json
+C:\Damian\csharp-basics\BD\bin\Debug\net6.0\35-BD.dll
+C:\Damian\csharp-basics\BD\bin\Debug\net6.0\35-BD.pdb
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.AssemblyInfo.cs
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.dll
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\refint\35-BD.dll
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.pdb
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\35-BD.genruntimeconfig.cache
+C:\Damian\csharp-basics\BD\obj\Debug\net6.0\ref\35-BD.dll

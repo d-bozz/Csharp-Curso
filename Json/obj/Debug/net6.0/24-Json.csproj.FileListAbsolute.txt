@@ -1,0 +1,15 @@
+C:\Damian\csharp-basics\Json\bin\Debug\net6.0\24-Json.exe
+C:\Damian\csharp-basics\Json\bin\Debug\net6.0\24-Json.deps.json
+C:\Damian\csharp-basics\Json\bin\Debug\net6.0\24-Json.runtimeconfig.json
+C:\Damian\csharp-basics\Json\bin\Debug\net6.0\24-Json.dll
+C:\Damian\csharp-basics\Json\bin\Debug\net6.0\24-Json.pdb
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.csproj.AssemblyReference.cache
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.AssemblyInfoInputs.cache
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.AssemblyInfo.cs
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.csproj.CoreCompileInputs.cache
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.dll
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\refint\24-Json.dll
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.pdb
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\24-Json.genruntimeconfig.cache
+C:\Damian\csharp-basics\Json\obj\Debug\net6.0\ref\24-Json.dll

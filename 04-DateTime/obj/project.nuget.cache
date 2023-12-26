@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "73ajx+vo0i3NkIy3MaYUR7TVcF9VaDjqt5ED9c1xgaO+SscrTwQUDM0Ak7DT1nR1Ol8qsTCQUMheVLN0i2B3FQ==",
+  "dgSpecHash": "T4Q6FJmsh4pszRxrNaH4pWm/+eohUz48GI17e2Ahuij6G8SXrB7GMNXfUKtNG8ILtue4aovw1SyVElhkHYMLJg==",
   "success": true,
-  "projectFilePath": "C:\\Damian\\Csharp Curso\\04-DateTime\\04-Datetime.csproj",
+  "projectFilePath": "C:\\Damian\\csharp-basics\\04-DateTime\\04-Datetime.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

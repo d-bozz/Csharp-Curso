@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Damian\\Csharp Curso\\Generic\\23-Generic.csproj": {}
+    "C:\\Damian\\csharp-basics\\Generic\\23-Generic.csproj": {}
   },
   "projects": {
-    "C:\\Damian\\Csharp Curso\\Generic\\23-Generic.csproj": {
+    "C:\\Damian\\csharp-basics\\Generic\\23-Generic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Damian\\Csharp Curso\\Generic\\23-Generic.csproj",
+        "projectUniqueName": "C:\\Damian\\csharp-basics\\Generic\\23-Generic.csproj",
         "projectName": "23-Generic",
-        "projectPath": "C:\\Damian\\Csharp Curso\\Generic\\23-Generic.csproj",
+        "projectPath": "C:\\Damian\\csharp-basics\\Generic\\23-Generic.csproj",
         "packagesPath": "C:\\Users\\damian.boz\\.nuget\\packages\\",
-        "outputPath": "C:\\Damian\\Csharp Curso\\Generic\\obj\\",
+        "outputPath": "C:\\Damian\\csharp-basics\\Generic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
